@@ -34,7 +34,7 @@ public class EvidencijaPolaznika {
         scanner.close();
     }
 
-    //Za svaku radnju je dodana metoda
+    //Za svaku radnju je dodana metoda koja se koristi u SWITCHU
 
     private static void ispisiIzbornik() {
         System.out.println("\nOdaberite opciju:");
